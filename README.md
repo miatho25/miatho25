@@ -1,9 +1,5 @@
 ## Hi there,I'm Mia Thomas, a professional Data Analyst 👋
 
-<!--
-**miatho25/miatho25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 🎯 **Financial Data Analyst | Certified Data Scientist | MBA**  
 Bridging finance, analytics, and technology to deliver **data-driven insights** that reduce costs, improve reporting accuracy, and drive smarter decisions.  
 
@@ -55,4 +51,3 @@ Bridging finance, analytics, and technology to deliver **data-driven insights** 
 
 ⭐️ *Always open to collaboration on financial analytics, machine learning, and data-driven business projects.*  
 
--->
